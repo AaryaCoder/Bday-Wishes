@@ -20,5 +20,5 @@ function new_image()
 
 
 function playSound(){
-	x.play("bdayaudio.mp3");}
+	x.play();}
 
